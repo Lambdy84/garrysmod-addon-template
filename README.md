@@ -1,0 +1,1 @@
+# garrysmod-addon-template
